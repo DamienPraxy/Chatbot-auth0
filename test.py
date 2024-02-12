@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-clientId = os.environ['clientId']
-domain = os.environ['domain']
+clientId = "Cx3rZgWhTDLW2ASYTud8EQNkhXbzBhro"
+domain = "auth.praxysante.fr"
 
 st.title('Welcome to Auth0-Streamlit')
 
